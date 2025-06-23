@@ -13,7 +13,7 @@ Many job seekers struggle with interview preparation due to:
 ❌ No way to analyze skill gaps
 ❌ Difficulty finding reliable free courses
 ❌ Poorly formatted resumes rejected by ATS
-❌ No review system for actionable feedback
+❌ No review system for actionable feedbackkkk
 These issues reduce confidence, increase rejection rates, and delay job placements.
 
 ✅ How This Project Solves the Problem
